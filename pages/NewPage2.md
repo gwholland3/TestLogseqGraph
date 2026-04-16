@@ -6,3 +6,4 @@
 - Mobile content
 - More mobile content
 - Even more mobile content
+- Auto-committed desktop content
